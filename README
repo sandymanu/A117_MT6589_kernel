@@ -1,7 +1,6 @@
 export PATH=~/Your_Toolchain_PATH/
 Use 4.6.3 toolchain to compile
 Build Command:
-(uboot had been phase out from jb)
 kernel
 ======
 cd kernel directory
